@@ -1,0 +1,66 @@
+.jumbotron{
+    text-align: center;
+    background: none;
+}
+
+.carousel-item {
+ align-items: baseline;
+}
+
+.mainSection{
+    padding: 2em;
+}
+
+.middleSection{
+    background-color: #bbb9bb;
+    padding: 2rem;
+}
+
+.imgCenter{
+    display: block;
+    margin:auto;
+    width: 200px;
+    height: 200px;
+}
+
+.buttonCenter{
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 50%;
+}
+
+h1{
+    text-align: center;
+    background: none;
+}
+
+.footer{
+    padding: 10px;
+}
+
+.img-footer{
+    width:100px;
+    height: 100px;
+}
+
+.fa-facebook-square{
+    color:#3b5998
+}
+
+.fa-google-plus-square{
+    color:#c32f10
+}
+
+.fa-youtube-square{
+    color:#c32f10
+}
+
+.fa-twitter-square{
+    color:#3b5998
+}
+
+.fa-instagram{
+    color:antiquewhite
+}
